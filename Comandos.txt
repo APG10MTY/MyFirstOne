@@ -1,3 +1,10 @@
+git add https://...
+git commit
+git push
+git fetch
+
+
+
 git branch -m main <01-TEST>
 git fetch origin
 git branch -u origin/<BRANCH> <BRANCH>
