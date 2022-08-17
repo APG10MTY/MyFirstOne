@@ -1,8 +1,0 @@
-gid add
-git commit
-git push
-git fetch
-git checkout
-git merge
-
-git diff
