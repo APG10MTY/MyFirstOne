@@ -1,0 +1,9 @@
+gid add
+git commit
+git push
+git fetch
+git checkout
+git merge
+
+got clone https://...  para clonar via comando un repositorio
+git diff
